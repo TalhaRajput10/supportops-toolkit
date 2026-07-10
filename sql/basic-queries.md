@@ -1,7 +1,5 @@
 # SQL Basics for Technical Support
 
-# Basic SQL Queries
-
 ## What is SQL?
 
 SQL (Structured Query Language) is used to retrieve, update, and manage data stored in relational databases.
