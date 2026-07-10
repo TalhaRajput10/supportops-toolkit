@@ -77,19 +77,15 @@ Include:
 Authorization: Bearer <access_token>
 
 User
-
    │
    ▼
 Application
-
    │
    ▼
 Authorization Server
-
    │
    ▼
 Access Token
-
    │
    ▼
 Resource Server(API)
