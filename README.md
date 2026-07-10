@@ -33,12 +33,22 @@ I'm a Product Experience Analyst with experience in customer support, troublesho
 
 ```text
 supportops-toolkit/
+├── README.md
 ├── api/
+│   ├── README.md
+│   ├── rest-api-basics.md
+│   ├── http-status-codes.md
+│   └── oauth2.md
 ├── sql/
+│   └── README.md
 ├── troubleshooting/
+│   └── README.md
 ├── incident-response/
+│   └── README.md
 ├── automation/
+│   └── README.md
 └── postman/
+    └── README.md
 ```
 
 This repository is continuously updated as I learn new technologies and improve my technical support skills.
