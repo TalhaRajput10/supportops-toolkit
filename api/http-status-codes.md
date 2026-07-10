@@ -95,6 +95,18 @@ Possible Causes:
 
 ---
 
+| Status Code | Meaning | Common Cause | First Thing to Check |
+|-------------|---------|--------------|----------------------|
+| 200 | OK | Successful request | Verify returned data |
+| 400 | Bad Request | Invalid request | Request body and parameters |
+| 401 | Unauthorized | Authentication failed | API key or access token |
+| 403 | Forbidden | Permission denied | User role and permissions |
+| 404 | Not Found | Incorrect URL or missing resource | Check the endpoint or URL |
+| 429 | Too Many Requests | Rate limit exceeded | Wait and retry later |
+| 500 | Internal Server Error | Server issue | Check logs or escalate |
+
+
+
 # Summary
 
 Understanding HTTP status codes helps Technical Support Engineers identify whether an issue is related to the client request, authentication, permissions, missing resources, or server failures.
