@@ -28,3 +28,10 @@ This repository showcases my technical support and product operations skills thr
 ## About Me
 
 I'm a Product Experience Analyst with experience in customer support, troubleshooting, and process improvement. I'm building this repository to document my learning journey and demonstrate practical technical support skills.
+
+api/README.md
+sql/README.md
+troubleshooting/README.md
+incident-response/README.md
+automation/README.md
+postman/README.md
