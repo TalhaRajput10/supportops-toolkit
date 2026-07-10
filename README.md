@@ -1,2 +1,26 @@
-# supportops-toolkit
-A technical support and product operations portfolio demonstrating API troubleshooting, SQL, documentation, automation, and incident response.
+# SupportOps Toolkit
+
+Hi! I'm Talha Rajput.
+
+This repository showcases my technical support and product operations skills through documentation, troubleshooting guides, SQL examples, API concepts, and automation exercises.
+
+## Skills
+
+- Technical Support
+- REST APIs
+- SQL
+- OAuth 2.0
+- Git & GitHub
+- Python (Learning)
+- AI Automation
+- Incident Management
+
+## Project Roadmap
+
+- [ ] REST API Guide
+- [ ] SQL Practice
+- [ ] OAuth 2.0 Guide
+- [ ] Incident Playbooks
+- [ ] Troubleshooting Articles
+- [ ] Python Automation
+- [ ] Postman Collection
