@@ -24,3 +24,7 @@ This repository showcases my technical support and product operations skills thr
 - [ ] Troubleshooting Articles
 - [ ] Python Automation
 - [ ] Postman Collection
+
+- [ ] ## About Me
+
+I'm a Product Experience Analyst with experience in customer support, troubleshooting, and process improvement. I'm building this repository to document my learning journey and demonstrate practical technical support skills.
