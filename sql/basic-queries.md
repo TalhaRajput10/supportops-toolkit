@@ -1,5 +1,78 @@
 # SQL Basics for Technical Support
 
+# Basic SQL Queries
+
+## What is SQL?
+
+SQL (Structured Query Language) is used to retrieve, update, and manage data stored in relational databases.
+
+Technical Support Engineers use SQL to investigate customer issues, verify account information, and troubleshoot application problems.
+
+---
+
+# SELECT
+
+Retrieves data from a table.
+
+Example:
+
+```sql
+SELECT * FROM users;
+```
+
+---
+
+# WHERE
+
+Filters the returned data.
+
+Example:
+
+```sql
+SELECT * FROM users
+WHERE email = 'john@example.com';
+```
+
+---
+
+# ORDER BY
+
+Sorts the results.
+
+Example:
+
+```sql
+SELECT * FROM users
+ORDER BY created_at DESC;
+```
+
+---
+
+# LIMIT
+
+Limits the number of returned rows.
+
+Example:
+
+```sql
+SELECT * FROM users
+LIMIT 10;
+```
+
+---
+
+# COUNT
+
+Counts the number of records.
+
+Example:
+
+```sql
+SELECT COUNT(*) FROM users;
+```
+
+---
+
 ## Why SQL Matters
 
 Technical Support Engineers often use SQL to investigate customer issues by querying databases.
