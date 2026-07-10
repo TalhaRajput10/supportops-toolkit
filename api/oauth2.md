@@ -76,19 +76,23 @@ Include:
 
 Authorization: Bearer <access_token>
 
+## OAuth Flow
+
+```text
 User
-   │
-   ▼
+  │
+  ▼
 Application
-   │
-   ▼
+  │
+  ▼
 Authorization Server
-   │
-   ▼
+  │
+  ▼
 Access Token
-   │
-   ▼
-Resource Server(API)
+  │
+  ▼
+Resource Server (API)
+```
 ---
 
 ## Summary
