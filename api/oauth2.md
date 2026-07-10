@@ -78,9 +78,7 @@ Authorization: Bearer <access_token>
 
 User
    │
-
    ▼
-
 Application
    │
    ▼
@@ -91,7 +89,6 @@ Access Token
    │
    ▼
 Resource Server(API)
-
 ---
 
 ## Summary
