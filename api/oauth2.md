@@ -78,7 +78,9 @@ Authorization: Bearer <access_token>
 
 User
    │
+
    ▼
+
 Application
    │
    ▼
