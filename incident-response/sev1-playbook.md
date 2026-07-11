@@ -80,3 +80,33 @@ Document:
 - Root Cause Analysis
 - Escalation
 - Documentation
+
+## Example Scenario
+
+### Incident
+
+Users cannot log in after a new software deployment.
+
+### Impact
+
+Approximately 80% of users are unable to access the platform.
+
+### Initial Response
+
+- Incident declared as SEV-1.
+- Engineering team notified.
+- Status page updated.
+- Customer Support informed.
+
+### Root Cause
+
+An authentication service configuration error introduced during deployment.
+
+### Resolution
+
+The deployment was rolled back, and authentication services returned to normal.
+
+### Lessons Learned
+
+- Improve deployment validation.
+- Add automated authentication health checks.
