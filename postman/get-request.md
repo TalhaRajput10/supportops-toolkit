@@ -77,3 +77,16 @@ Retry the request and check the API status.
 - Postman
 - HTTP Methods
 - JSON Response Analysis
+
+## Practical Exercise
+
+A GET request was sent to:
+
+https://jsonplaceholder.typicode.com/users
+
+**Result:**
+- Status Code: 200 OK
+- Response Format: JSON
+- Returned a list of user records.
+
+> Screenshot available in the `screenshots/` folder.
